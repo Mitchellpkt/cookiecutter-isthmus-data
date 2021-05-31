@@ -1,3 +1,11 @@
+# Isthmus tweaked python repo template
+
+# Data that is too big to sync
+data/local_only/*
+
+# pycharm stuff
+.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -33,6 +41,7 @@ Temporary Items
 # Distribution / packaging
 .Python
 env/
+venv/
 build/
 develop-eggs/
 dist/
