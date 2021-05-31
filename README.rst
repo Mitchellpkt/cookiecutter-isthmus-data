@@ -5,6 +5,8 @@ This cookiecutter creates a project with general data science requirements (pyth
 
 Isthmus // Mitchell P. Krawiec-Thayer
 
+Video demo: https://youtu.be/3NfkUkI3msA
+
 Create template from cookiecutter
 ---------------------------------
 
