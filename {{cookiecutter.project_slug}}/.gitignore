@@ -103,3 +103,6 @@ ENV/
 
 # IDE settings
 .vscode/
+
+# instant ignore filename
+*gitignore*
