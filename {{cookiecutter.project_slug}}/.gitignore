@@ -105,4 +105,4 @@ ENV/
 .vscode/
 
 # instant ignore filename
-*gitignore*
+*gitignoreme*
